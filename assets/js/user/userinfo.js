@@ -44,3 +44,4 @@ $(".layui-form").on("submit", (e) => {
 });
 
 initUserInfo();
+
