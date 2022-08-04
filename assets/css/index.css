@@ -20,11 +20,9 @@ iframe {
 .layui-body {
   overflow: hidden;
 }
-
 a {
   transition: none !important;
 }
-
 .userinfo {
   height: 60px;
   line-height: 60px;
@@ -56,3 +54,4 @@ a {
   top: 4px;
   margin-right: 10px;
 }
+
